@@ -10,7 +10,7 @@ A simple Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Thi
 - Simple, clean UI with responsive design
 
 ## 📸 Demo
-![Tic Tac Toe Screenshot](./output screenshot.png.png)
+![Tic Tac Toe Screenshot](./output screenshot.png)
 
 ## 💻 Technologies Used
 - **HTML**: Structure of the game board
