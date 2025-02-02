@@ -8,10 +8,6 @@ A simple Tic Tac Toe game built using **HTML**, **CSS**, and **JavaScript**. Thi
 - Draw detection when the board is full
 - Game reset functionality
 - Simple, clean UI with responsive design
-
-## 📸 Demo
-![Tic Tac Toe Screenshot](./output screenshot.png)
-
 ## 💻 Technologies Used
 - **HTML**: Structure of the game board
 - **CSS**: Styling and layout
